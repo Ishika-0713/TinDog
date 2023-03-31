@@ -58,7 +58,7 @@ p{
 
  /* Buttons-download  */
 .download-button{
-    margin: 5% 3% 5% 0; /* remeber it, mostly used*/
+    margin: 5% 3% 5% 0; 
 }
 
 /* title section */
@@ -76,15 +76,11 @@ p{
 }
 
 /* -------Features----------*/
-/* for stacking the sections use the flow chart from resources */
-#features{
-    /* padding: 10% 15%; */
-   
+#features{   
     position: relative;
     z-index: 1;
 }
 .feature-box{
-    /* text-align: center; */
     padding: 4%;
 }
 /* icons */
@@ -98,7 +94,6 @@ p{
 }
 /* Heading under Icons */
 .feature-title{
-    /* font-family: "Montserrat"; */
     font-size: 1.5rem;
 }
 .Icon-p{
@@ -106,7 +101,6 @@ p{
 }
 /* Testimonial section */
 #testimonials {
-    /* text-align: center; */
     background-color: #ef8172;
 }
 
@@ -122,12 +116,8 @@ p{
 }
 
 
-/* .carousel-item{
-    padding: 10% 15%;
-} */
 #press{
     background-color: #ef8172;
-    /* text-align: center; */
     padding-bottom: 4%;
 }
 
@@ -139,7 +129,6 @@ p{
 /* Pricing section */
 #pricing{
     padding: 100px;
-    /* text-align: center; */
 }
 
 .pricing-col{
@@ -165,8 +154,6 @@ p{
 }
 /* FOOTER */
 #footer{
-    /* padding: 7% 15%; */
-    /* text-align: center; */
     background-color: #fff;
 }
 
