@@ -4,5 +4,5 @@
 
 Made using: HTML, CSS and Bootstrap.
 
-**Link to the website**:_https://ishika-0713.github.io/TinDog/
-_
+**Link to the website**:_https://ishika-0713.github.io/TinDog/_
+
